@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "6dd01470dced2dbf1ffe9873",
+  "owner": "dhhhtpkfd",
+  "repo": "page-97fd2779e9448b5c1deb4b81",
+  "title": "Micro",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "97fd2779e9448b5c1deb4b81",
+      "a": "Micro",
+      "b": "",
+      "entity": "Micro",
+      "brand": "Micro",
+      "separator": "",
+      "path": "index.html",
+      "hash": "41f4c76cde2356eb7105946b84090ffebb0f1887ebf302b875ad47103a4427f6",
+      "content": {
+        "keyword1": "Micro",
+        "keyword2": "",
+        "primary_entity": "Micro",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Micro 是专注高速稳定的网络加速服务品牌，提供 VPN 梯子、机场订阅与多端客户端下载，覆盖办公、流媒体与游戏场景，支持 IPLC 专线与原生解锁。",
+          "AI_DESCRIPTION": "Micro 是专注高速稳定的网络加速服务品牌，提供 VPN 梯子、机场订阅与多端客户端下载，覆盖办公、流媒体与游戏场景，支持 IPLC 专线与原生解锁。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif;background:#061525;color:#d4eaf7;font-size:16px;line-height:1.7}a{color:#3ee0f0;text-decoration:none}header{background:#0a2340;border-bottom:1px solid #123652;position:sticky;top:0;z-index:20}.nav{max-width:960px;margin:0 auto;padding:12px 20px;display:flex;flex-wrap:wrap;gap:8px 18px;align-items:center}.nav .brand{font-weight:700;color:#fff;margin-right:auto;font-size:1.15rem}.nav a{color:#9fd9e8}main{display:block}.container{max-width:960px;margin:0 auto;padding:0 20px}.hero{padding:96px 20px 72px;text-align:center}.hero h1{font-size:clamp(1.8rem,5vw,2.6rem);color:#fff;margin:0 0 18px;font-weight:700;letter-spacing:.03em;line-height:1.25}.lead{font-size:1.08rem;color:#8ec8dc;max-width:640px;margin:0 auto}h2{font-size:1.45rem;color:#fff;margin:48px 0 18px;font-weight:700}h3{font-size:1.12rem;color:#7ee4f2;margin:22px 0 8px}.plans{display:flex;flex-wrap:wrap;gap:16px;margin:24px 0}.plan{flex:1 1 250px;background:#0c2b48;border:1px solid #1a4568;border-radius:10px;padding:22px 20px 20px;position:relative}.plan.featured{border-color:#00d2e6;background:#0e3354}.plan .name{font-size:1.2rem;color:#fff;margin:0 0 6px;font-weight:700}.plan .price{font-size:1.35rem;color:#3ee0f0;font-weight:700;margin:0}.plan .annual{font-size:.88rem;color:#8bb8cc;margin:4px 0 14px}.plan ul{margin:0;padding:0 0 0 18px;color:#c5e4f0}.plan li{margin:6px 0}.badge{position:absolute;top:-11px;right:14px;background:#00d2e6;color:#04222c;font-size:12px;font-weight:700;padding:3px 10px;border-radius:999px}#faq{background:#082036;margin:40px 0 0;padding:36px 0 48px;border-top:1px solid #123652}#faq h2{margin-top:0;border-left:4px solid #00d2e6;padding-left:12px}details{background:#0c2b48;border:1px solid #1a4568;border-radius:8px;margin:0 0 10px}summary{padding:13px 16px;font-weight:600;color:#b6ecf5;cursor:pointer}details p{padding:0 16px 14px;margin:0;color:#c5dce8}footer{background:#04101c;border-top:1px solid #123652;padding:28px 0 36px;font-size:.92rem;color:#7a9bb0}footer p{margin:8px 0}.ads{background:#0c2b48;border:1px dashed #1e5a78;padding:12px 16px;margin:16px 0;border-radius:8px;color:#9fd4e4}@media(max-width:600px){.hero{padding:64px 16px 48px}.plans{flex-direction:column}}</style><header><div class=\"nav\"><span class=\"brand\">Micro</span><a href=\"#\">首页</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">指南</a><a href=\"#download\">下载</a><a href=\"#faq\">常见问题</a></div></header><main><section class=\"hero\"><div class=\"container\"><h1>Micro 网络加速官方网站</h1><p class=\"lead\">稳定高速的 VPN 梯子与机场订阅服务。官网提供多端客户端下载、清晰套餐与导入说明，覆盖流媒体解锁、游戏加速与跨境办公。</p></div></section><div class=\"container\"><section><h2>品牌简介</h2><p>Micro 是面向个人与团队的网络加速品牌，同时提供 VPN 连接与机场订阅。我们整合香港、日本、新加坡、美国等地优质线路，强调低延迟、可预期的可用性以及通过官方渠道分发的客户端与订阅，降低来路不明安装包带来的风险。</p><p>无论是解锁高清流媒体、优化竞技游戏链路，还是稳定访问境外协作工具与资料库，都可以按流量与设备数选择套餐。价格与权益在页面中直接列出，便于对照后再决定月付或年付。</p></section><section id=\"plans\"><h2>套餐与机场订阅</h2><p>以下为当前公开套餐。年付约为十个月月费，流量按周期重置。旗舰版覆盖大多数个人用户对解锁与游戏线路的需求。</p><div class=\"plans\"><article class=\"plan\"><p class=\"name\">基础版</p><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><span class=\"badge\">推荐</span><p class=\"name\">旗舰版</p><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><p class=\"name\">团队版</p><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>高清流媒体</h3><p>旗舰版与团队版线路针对常见国际流媒体做了原生解锁与带宽预留，减少缓冲与地区限制提示。基础版可满足日常站点与部分平台播放。</p><h3>游戏加速</h3><p>对延迟与丢包敏感的对战与开放世界游戏，可优先选择标注 IPLC 或游戏优化的节点。专线用于压低抖动，实际效果仍取决于本地运营商与时段。</p><h3>远程办公与学习</h3><p>多设备同时在线适合笔记本、手机与一台备用设备共用订阅。规则分流可让国内应用直连，海外文档、会议与代码仓库走加速节点。</p><h3>跨境电商与开发调试</h3><p>团队版提供更高带宽与可定制路由，便于多地区店铺后台、广告投放后台以及接口联调。专属支持用于处理紧急断连与线路切换。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>选择套餐并获取订阅</h3><p>对照流量、同时在线设备数与是否需要原生解锁、IPLC 游戏线路后下单。支付完成后在官方账户中复制订阅链接。本页只做介绍与下载指引，请通过 Micro 官网完成开通，避免第三方代充。</p><h3>下载客户端并导入</h3><p>在客户端下载区获取对应系统安装包，或使用已有的 Clash、Clash Meta、Shadowrocket、Quantumult X、Surge、v2rayN 等兼容软件。将订阅地址粘贴到「添加订阅 / 更新」中，等待节点列表刷新后选择延迟较低的线路连接。建议开启规则模式，避免全部流量绕行。</p><h3>日常维护</h3><p>订阅过期或流量用尽会导致无法更新节点。可切换备用节点、检查系统时间、更新客户端版本。旗舰版与团队版工单通道优先处理连接与解锁问题。不要把订阅链接发到公开群组。</p></section><section id=\"download\"><h2>官方客户端下载</h2><p>请仅通过本官网获取安装包或配置说明，降低篡改与挖矿插件风险。下列入口为页面内锚点示例，实际文件以官方发布为准。</p><ul><li><a href=\"#download\">Windows 桌面端</a>：支持系统代理与 TUN 模式，适合长期挂机。</li><li><a href=\"#download\">macOS 客户端</a>：与系统网络设置配合，便于分流。</li><li><a href=\"#download\">Android 应用</a>：可配合订阅一键更新节点。</li><li><a href=\"#download\">iOS 导入指南</a>：需使用商店内兼容应用粘贴机场订阅。</li><li><a href=\"#download\">Linux 与路由器</a>：使用通用订阅在兼容固件或命令行客户端中导入。</li></ul><p>同一订阅可在套餐设备上限内多端使用。导入后请先测延迟再固定常用节点。</p></section><section><h2>线路与性能说明</h2><p>Micro 节点覆盖亚洲主要城市以及北美、欧洲部分入口，骨干包含 CN2、优质 BGP 与 IPLC 内网专线。基础版使用普通线路池；旗舰版与团队版可访问解锁与游戏优化节点，并享有更高带宽优先级。延迟与速度受本地宽带、高峰拥塞和目标站点影响，我们不在此页填写虚构跑分或用户评分，建议以实际连接体验为准。</p></section></div><section id=\"faq\"><div class=\"container\"><h2>常见问题</h2><details><summary>Micro 是什么？和普通 VPN、机场有何关系？</summary><p>Micro 是网络加速品牌，同时提供传统 VPN 方式与机场订阅（兼容 Clash 等协议）。用户按套餐获得流量与设备名额，用于跨境访问、流媒体与游戏。订阅与客户端以官网渠道为准，避免与名称相近的非官方站点混淆。</p></details><details><summary>如何从官网下载客户端并完成第一次连接？</summary><p>打开本页「官方客户端下载」选择系统，安装后复制账户中的订阅链接，在客户端内添加并更新。选择延迟较低的节点连接即可。iOS 需先安装兼容应用再导入。若列表为空，请确认订阅未过期、设备未超限。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>轻度浏览、三台设备以内可选基础版。需要原生流媒体、IPLC 游戏线路和优先工单时选择旗舰版，这是大多数个人用户的均衡方案。家庭或工作室多成员、需要更高流量与定制路由时选择团队版。</p></details><details><summary>流量如何计算？年付会更划算吗？</summary><p>套餐流量在计费周期内有效，用尽需等待重置或升级。年付价格约为十个月的月费，适合长期使用。同时在线设备数按套餐上限统计，超出后新设备可能无法连接，可下线闲置终端或升级。</p></details><details><summary>能否解锁 Netflix、Disney+ 以及用于游戏加速？</summary><p>旗舰版与团队版提供全节点原生流媒体解锁，并对游戏向 IPLC 线路做了优化。基础版支持常见站点与部分平台。版权与节点策略可能调整，请以当前节点标识和实际播放、对战延迟为准。</p></details><details><summary>连接失败或订阅泄露时怎么处理？</summary><p>先切换节点、更新客户端并检查本地时间与防火墙。仍然失败时通过套餐对应的工单通道反馈。若怀疑订阅泄露，立即在官方账户重置链接，旧地址将失效。Micro 不会在非官方渠道索要你的订阅或验证码。</p></details></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"container\"><p>Micro 官方网站 · VPN 梯子与机场订阅 · 客户端官方下载指引</p><p>网站地图：<a href=\"#\">首页</a> · <a href=\"#plans\">套餐</a> · <a href=\"#guide\">操作说明</a> · <a href=\"#download\">客户端下载</a> · <a href=\"#faq\">常见问题</a></p><div class=\"ads\">推广：长期使用建议直接对比年付旗舰版与团队版权益，按设备数与解锁需求选择，避免重复开通多个低容量套餐。</div><p>友情链接：<a href=\"#\">订阅转换说明</a> · <a href=\"#\">节点延迟对照</a> · <a href=\"#\">兼容客户端列表</a> · <a href=\"#\">分流规则入门</a></p><p>© Micro 保留所有权利。请通过官网获取客户端与订阅，谨防仿冒站点。</p></div></footer>",
+          "hash": "2f6a90786c482198db7daa52e0591f19be097dfa10d119e80343433248f3e5ef",
+          "seo": {
+            "title": "Micro 官网 - VPN梯子网络加速、机场订阅与客户端官方下载",
+            "keywords": "Micro,Micro VPN,Micro机场,VPN梯子,网络加速器,客户端下载,官网下载,机场订阅,游戏加速,流媒体解锁",
+            "description": "Micro 是专注高速稳定的网络加速服务品牌，提供 VPN 梯子、机场订阅与多端客户端下载，覆盖办公、流媒体与游戏场景，支持 IPLC 专线与原生解锁。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vytcjsm.cn",
+    "host": "p-89adec11f9.vytcjsm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "qnlftds.cn",
+      "url": "https://qnlftds.cn/",
+      "label": "Micro",
+      "apex": "qnlftds.cn",
+      "kind": null,
+      "identity": "kutxvvg3w/page-9429a9d36351ccf556131a0e"
+    },
+    {
+      "host": "xn--1tqp3e88d60uji4asbv.com",
+      "url": "https://xn--1tqp3e88d60uji4asbv.com/",
+      "label": "Micro",
+      "apex": "xn--1tqp3e88d60uji4asbv.com",
+      "kind": null,
+      "identity": "huyrg2721/page-2472f61b5006f163ed914b44"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a2b65b165a1d3d79953e60161374647e147c45b8d4ce16b1c983fbe55a9017c4",
+    "sitemap.xml": "5dec18d4a425bf60265e106cf60db3639a442c61b086fbe0f3ed2db47422bc99",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b3b71ec0ca52e2caa48c16e34967f487b8bf1fb78ab9255c0a40065b268aca74",
+    "robots.txt": "49356ddc51c8a7dcd09f8343aa37d6537139e85557be718959fbf58b390a2ff4",
+    "fe4ae368a9c2756563300ff1466a7ba4.txt": "d5bcf13bc2333217e8cbed38418f56f9f0ff592039c6223f15edb75d1415fbbd"
+  },
+  "revision": "fec32ddb2b571a30a5e68da8173ab531ed437edcc317d30f989752e5e844aa40"
+}
